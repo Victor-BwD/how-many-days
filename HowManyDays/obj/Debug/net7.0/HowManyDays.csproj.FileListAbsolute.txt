@@ -1,0 +1,15 @@
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\bin\Debug\net7.0\HowManyDays.exe
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\bin\Debug\net7.0\HowManyDays.deps.json
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\bin\Debug\net7.0\HowManyDays.runtimeconfig.json
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\bin\Debug\net7.0\HowManyDays.dll
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\bin\Debug\net7.0\HowManyDays.pdb
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\obj\Debug\net7.0\HowManyDays.csproj.AssemblyReference.cache
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\obj\Debug\net7.0\HowManyDays.GeneratedMSBuildEditorConfig.editorconfig
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\obj\Debug\net7.0\HowManyDays.AssemblyInfoInputs.cache
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\obj\Debug\net7.0\HowManyDays.AssemblyInfo.cs
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\obj\Debug\net7.0\HowManyDays.csproj.CoreCompileInputs.cache
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\obj\Debug\net7.0\HowManyDays.dll
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\obj\Debug\net7.0\refint\HowManyDays.dll
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\obj\Debug\net7.0\HowManyDays.pdb
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\obj\Debug\net7.0\HowManyDays.genruntimeconfig.cache
+F:\victo\Documents\workspace\C#\HowManyDays\HowManyDays\obj\Debug\net7.0\ref\HowManyDays.dll
